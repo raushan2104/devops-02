@@ -1,5 +1,1 @@
-class Test:
-    pass
-
-
-hello
+print("hello")
